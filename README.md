@@ -1,2 +1,2 @@
-# MindBox.FigureLanguage
+# MindBox.FigureLibrary
 Библиотека классов для тестового задания Mindbox на должность стажера-разработчика
